@@ -1,0 +1,4 @@
+# Ignore generated files
+*.gen.vhd
+*.gen.v
+*.gen.h
